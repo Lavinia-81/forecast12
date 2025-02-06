@@ -14,22 +14,22 @@
 - `weather.py`: The script that interacts with the OpenWeatherMap API to fetch weather data.
 
 ## Installation
-### Clone this repository.
+- Clone this repository.
 
-### 1. Install the necessary packages using requirements.txt:
+- 1. Install the necessary packages using requirements.txt:
 ```pip install -r requirements.txt```
-### 2. Set up environment variables for OpenWeatherMap API:
+-  2. Set up environment variables for OpenWeatherMap API:
 ```export API_KEY='your_api_key_here'```
-### 3. Run the server:
+-  3. Run the server:
 ```python server.py```
 
 ## Usage
-### 1. Open index.html in your browser.
-### 2. Enter a city in the text field and click the "Submit" button.
-### 3. The weather conditions will be displayed on weather.html.
+-  1. Open index.html in your browser.
+-  2. Enter a city in the text field and click the "Submit" button.
+-  3. The weather conditions will be displayed on weather.html.
 
 ## URL
-### The application is deployed and available at: (https://forecast12.onrender.com)
+- The application is deployed and available at: (https://forecast12.onrender.com)
 
 ### Contributions
 - Contributions are welcome! Please open a pull request for any improvements or new features.
